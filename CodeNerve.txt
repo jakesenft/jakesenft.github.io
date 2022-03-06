@@ -1,17 +1,18 @@
-<span id="a">user</span>:<span id="b">~</span><span id="c">$</span> dstrctls/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
-<span id="a">pass</span>:<span id="b">~</span><span id="c">$</span> ~<jS5E^a[#wTGpt_/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
+<span id="a">user</span>:<span id="b">~</span><span id="c">$</span> dstrctls/
+<span id="a">pass</span>:<span id="b">~</span><span id="c">$</span> ~<jS5E^a[#wTGpt_/
 <span id="a">connecting</span>:<span id="b">~</span><span id="c">$</span>
-<span id="a">code@underground</span>:<span id="b">~</span><span id="c">$</span> cd district/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
+<span id="a">code@underground</span>:<span id="b">~</span><span id="c">$</span> cd homework/
 <span id="a">coder@underground</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dstrct.txt<br/><br/>
-welcome to"<span id="k">the district</span>". <!-- sjkfhskjf -->
+welcome to "<span id="k">the district</span>". <!-- sjkfhskjf -->
 
-the district serves as an underground market for the city of Los Santos.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+our collective aims to provide a variety of criminal services to the citizens of los santos.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>some cool ass sentence should go here</p>
 <p>avaliable services</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>money laundering -<a href="link"> prices</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>firearm smuggling<br><br><br>Give your project links or something like that. <a href="link"> prices</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p>assassinations<br> <a href="link1">prices</a> <br> <a href="link2">previous jobs</a> </p>
+<p>firearms -<a href="link"> prices</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>assassinations -<a href="link"> prices</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>drugs -<a href="link"> prices</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 for more details <!-- slightdelayhere-->, join darkchat <!-- longlonglongcomment --> <a href="link">dstrct</a>.
 
 <p>goodbye.</p>
-<span id="a">user</span>:<span id="b">~</span><span id="c">$</span>disconnected/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
+<span id="a">user</span>:<span id="b">~</span><span id="c">$</span>disconnected/
