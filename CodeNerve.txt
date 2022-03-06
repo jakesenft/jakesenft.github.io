@@ -1,6 +1,10 @@
-<span id="a">user</span>:<span id="b">~</span><span id="c">$</span> dstrctls/
-<span id="a">pass</span>:<span id="b">~</span><span id="c">$</span> ~<jS5E^a[#wTGpt_/
-<span id="a">connecting</span>:<span id="b">~</span><span id="c">$</span>
+<span id="b">user</span>:<span id="b">~</span><span id="c">$</span> dstrctls
+<span id="b">pass</span>:<span id="b">~</span><span id="c">$</span> ~jS5E^a[#wTGpt_
+<span id="b">requesting authorization</span>:<span id="b"></span><span id="c"></span> 
+<span id="a">connection authorized</span>:<span id="b"></span><span id="c"></span> 
+
+
+
 <span id="a">code@underground</span>:<span id="b">~</span><span id="c">$</span> cd homework/
 <span id="a">coder@underground</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dstrct.txt<br/><br/>
 welcome to "<span id="k">the district</span>". <!-- sjkfhskjf -->
