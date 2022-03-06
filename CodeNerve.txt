@@ -1,13 +1,17 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">user</span>:<span id="b">~</span><span id="c">$</span> dstrctls/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
+<span id="a">pass</span>:<span id="b">~</span><span id="c">$</span> ~<jS5E^a[#wTGpt_/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
+<span id="a">connecting</span>:<span id="b">~</span><span id="c">$</span>
+<span id="a">code@underground</span>:<span id="b">~</span><span id="c">$</span> cd district/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
+<span id="a">coder@underground</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dstrct.txt<br/><br/>
+welcome to"<span id="k">the district</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+the district serves as an underground market for the city of Los Santos.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<p>avaliable services</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>money laundering -<a href="link"> prices</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>firearm smuggling<br><br><br>Give your project links or something like that. <a href="link"> prices</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>assassinations<br> <a href="link1">prices</a> <br> <a href="link2">previous jobs</a> </p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+for more details <!-- slightdelayhere-->, join darkchat <!-- longlonglongcomment --> <a href="link">dstrct</a>.
 
-<p>Cheers!</p>
+<p>goodbye.</p>
+<span id="a">user</span>:<span id="b">~</span><span id="c">$</span>disconnected/<!-- kjsdfhkjdhsfkjdshfkj -->Public Info
