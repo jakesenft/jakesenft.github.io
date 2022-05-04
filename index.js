@@ -1,3 +1,11 @@
+
+
+jQuery(function($) {
+    $('#term').terminal("json-rpc-service-demo.php", {
+        login: true,
+        greetings: "You are authenticated"});
+});
+
 var Typer = {
   text: '',
   accessCountimer: null,

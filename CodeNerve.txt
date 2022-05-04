@@ -1,6 +1,8 @@
 <span id="b">user</span>:<span id="b">~</span><span id="c">$</span> dstrctls
 <span id="b">pass</span>:<span id="b">~</span><span id="c">$</span> ~jS5E^a[#wTGpt_
-<span id="b">requesting authorization</span>:<span id="b"></span><span id="c"></span> 
+
+<span id="b">requesting authorization</span>:<span id="b"></span><span id="c"></span>
+ 
 <span id="a">connection authorized</span>:<span id="b"></span><span id="c"></span> 
 
 
